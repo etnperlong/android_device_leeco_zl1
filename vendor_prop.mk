@@ -19,3 +19,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
 # Fingerprint
 PRODUCT_PROPERTY_OVERRIDES += \
     persist.qfp=false
+
+# OTA (Unofficial)
+PRODUCT_PROPERTY_OVERRIDES += \
+    lineage.updater.uri="https://raw.githubusercontent.com/etnperlong/Unofficial_DotOS_OTA_Config/dot-p/zl1.json"
