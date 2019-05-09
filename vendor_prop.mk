@@ -22,4 +22,4 @@ PRODUCT_PROPERTY_OVERRIDES += \
 
 # OTA (Unofficial)
 PRODUCT_PROPERTY_OVERRIDES += \
-    lineage.updater.uri="https://raw.githubusercontent.com/etnperlong/Unofficial_DotOS_OTA_Config/dot-p/zl1.json"
+    dot.updater.uri="https://raw.githubusercontent.com/etnperlong/Unofficial_DotOS_OTA_Config/dot-p/zl1.json"
